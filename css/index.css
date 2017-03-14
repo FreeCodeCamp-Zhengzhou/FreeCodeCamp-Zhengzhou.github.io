@@ -321,7 +321,8 @@ html, a {
 
 .wechat{
     width: 150px;
-    margin: 0 auto;
+    display: block;
+    margin: 30px auto;
 }
 /*.box-image {
     height: 200px;
