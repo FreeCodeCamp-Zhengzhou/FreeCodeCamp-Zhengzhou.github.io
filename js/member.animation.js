@@ -16,12 +16,6 @@ define(['d3', 'members'],  function (d3, members) {
             {"source":5,"target":4},    {"source":6,"target":5},
             {"source":7,"target":6},    {"source":8,"target":7},
             {"source":0,"target":8}
-            // {"source":9,"target":8},    {"source":10,"target":9},
-            // {"source":11,"target":10},    {"source":12,"target":11},
-            // {"source":13,"target":12},    {"source":14,"target":13},
-            // {"source":15,"target":14},    {"source":16,"target":15},
-            // {"source":17,"target":16},    {"source":18,"target":17},
-            // {"source":19,"target":18},    {"source":0,"target":19},
         ]
     }
 
